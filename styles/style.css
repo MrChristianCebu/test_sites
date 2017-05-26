@@ -1,0 +1,22 @@
+
+html {
+  font-size: 10px;
+  font-family: Pacifico, cursive;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: Bungee Outline, cursive;
+  color: aqua;
+}
+
+p,li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+li:hover {
+  color: green;
+}

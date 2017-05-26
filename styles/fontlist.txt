@@ -1,0 +1,20 @@
+
+    font-family: 'Metamorphous', cursive;
+
+    font-family: 'Barrio', cursive;
+
+    font-family: 'Indie Flower', cursive;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Gloria Hallelujah', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Satisfy', cursive;
+
+    font-family: 'Bungee Outline', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Barrio|Bungee+Outline|Dancing+Script|Gloria+Hallelujah|Indie+Flower|Lobster|Metamorphous|Pacifico|Satisfy" rel="stylesheet"> 
